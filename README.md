@@ -1,3 +1,1 @@
-# 1
-first
-this is the first collection of my code
+# this repository will store my code of leetcode.cn  
